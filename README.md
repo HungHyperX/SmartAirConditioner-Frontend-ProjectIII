@@ -6,11 +6,11 @@
 ## Triển khai cài đặt 
 
 ### 1. Clone repo link từ github:  
-#### o Nhúng: https://github.com/HungHyperX/SmartAirConditionerEmbedded-ProjectIII.git
+#### o Nhúng: https://github.com/HungHyperX/SmartAirConditioner-Embedded-ProjectIII.git
 
-#### o Frontend: https://github.com/HungHyperX/SmartAirConditionerFrontend-ProjectIII.git 
+#### o Frontend: https://github.com/HungHyperX/SmartAirConditioner-Frontend-ProjectIII.git 
 
-#### o Backend: https://github.com/HungHyperX/SmartAirConditionerBackend-ProjectIII.git 
+#### o Backend: https://github.com/HungHyperX/SmartAirConditioner-Backend-ProjectIII.git 
 
 ### 2. Folder Hardware: Open Arduino IDE 
 Kết nối thiết bị và chạy code hệ thống phần cứng với file project3.ino 
